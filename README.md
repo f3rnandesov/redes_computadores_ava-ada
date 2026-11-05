@@ -892,6 +892,7 @@ vlan 90
 exit
 
 interface fastEthernet 0/1
+
  switchport mode trunk
 
  switchport trunk native vlan 90
